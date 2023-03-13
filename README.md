@@ -6,4 +6,5 @@
 
 🏼 Tools
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diokim17&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diokim17&show_icons=true&theme=yeblu)
+(https://github-readme-stats.vercel.app/api?username=diokim17&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=yeblu)
