@@ -1,12 +1,19 @@
-### Hi there, I'm Dio Kim 👋
+## Hi there, I'm Dio Kim 👋
 
-💻Studing
+### 💻Studing
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
 
-🧰Tools
+### 🧰Tools
+
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=Blue"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Spyder IDE-FF0000?style=flat-square&logo=SpyderIDE&logoColor=white"/>
+
+### 🏢 Now working
+
+Formskorea, Data manager
+
+##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diokim17&show_icons=true&theme=yeblu)
 
-🏢: formskorea
-🧑‍💼 data manager
+
