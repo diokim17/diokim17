@@ -16,7 +16,8 @@ computer vision field of autonomous driving
 
 Formskorea, Data manager
 
-### Feel free to contact me! <a href="mailto:dykim335@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wonjongah@gmail.com"/></a>
+### 📫 Feel free to contact me!
+<a href="mailto:dykim335@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wonjongah@gmail.com"/></a>
 
 ##
 
