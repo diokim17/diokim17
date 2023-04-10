@@ -16,6 +16,8 @@ computer vision field of autonomous driving
 
 Formskorea, Data manager
 
+### Feel free to contact me! <a href="mailto:dykim335@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wonjongah@gmail.com"/></a>
+
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diokim17&show_icons=true&theme=yeblu)
