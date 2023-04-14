@@ -18,7 +18,7 @@ Formskorea, Data manager
 
 ### 📫 Feel free to contact me!
 <a href="mailto:dykim335@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dykim335@gmail.com"/></a>
-<a href="https://www.instagram.com/_dio_17/"><img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://www.instagram.com/_dio_17/">
+<a href="https://www.instagram.com/_dio_17/"><img src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logocolor=white&link=https://www.instagram.com/_dio_17/">
 </a>
 
 ##
