@@ -6,7 +6,7 @@
 
 ### 📖Interested
 
-computer vision field of autonomous driving
+I'm interested in everything about car software, and I want to study Lidar sensors and computer vision among them.
 
 ### 🧰Tools
 
