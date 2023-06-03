@@ -1,5 +1,4 @@
-## Hi there, I'm Doyeong Kim 👋
-## and please call me Dio
+## 👋 Hi there, I'm Doyeong Kim and please call me Dio
 
 ### 💻Studing
 
