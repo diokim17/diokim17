@@ -14,7 +14,7 @@ I'm interested in everything about car software, and I want to study Lidar senso
 
 ### 🏢 Now working
 
-Formskorea, Data manager
+
 
 ### 📫 Feel free to contact me!
 <a href="mailto:dykim335@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dykim335@gmail.com"/></a>
