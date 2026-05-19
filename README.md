@@ -1,30 +1,37 @@
 ## 👋 Hi there, I'm Doyeong Kim (Dio)
 
 ### 🚀 About Me
-I build data pipelines for machine learning.
+Aspiring AI Engineer focused on Computer Vision and intelligent systems.
 
-Currently, I am developing an automated image dataset pipeline that transforms raw data into training-ready datasets through validation, deduplication, preprocessing, and dataset generation.
+Currently studying AI engineering through the Codeit AI Bootcamp and building projects related to image processing, data pipelines, and ML workflows.
+
+Interested in autonomous driving, robotics, and scalable AI systems.
 
 -----
-머신러닝을 위한 데이터 파이프라인을 구축하고 있습니다.  
-현재 이미지 데이터를 검증, 전처리하여 학습용 데이터셋으로 변환하는 자동화 파이프라인을 개발 중입니다.  
-데이터 중심 ML, 자동화된 파이프라인, Docker/Kubernetes 기반 환경에 관심이 있습니다.
+
+컴퓨터 비전과 지능형 시스템에 관심을 가지고 AI 엔지니어로 성장하고 있습니다.  
+현재 Codeit AI Bootcamp를 통해 AI 엔지니어링을 학습하며 이미지 처리, 데이터 파이프라인, ML 워크플로우 관련 프로젝트를 진행하고 있습니다.  
+자율주행, 로보틱스, 확장 가능한 AI 시스템 분야에 관심이 있습니다.
 
 ### ⚙️ What I Focus On
-- ML data pipelines and data-centric workflows
-- Scalable and automated data processing
-- Reproducible ML environments with Docker and Kubernetes
+- Computer Vision and intelligent systems
+- Image processing and ML workflows
+- Data pipelines and automation
+- Reproducible AI environments with Docker and Kubernetes
 
 ### 🛠 Tech Stack
 - Python
+- OpenCV
+- Pandas
 - Docker
-- Kubernetes (learning)
-- Data Processing (Pandas, Pillow)
+- Kubernetes
 
 ### 🎯 Interests
+- Computer Vision
+- Autonomous Driving
+- Robotics
 - MLOps
-- ML Data Engineering
-- Data Pipeline Automation
+- AI Infrastructure
 
 ### 📫 Feel free to contact me!
 <a href="mailto:dykim335@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dykim335@gmail.com"/></a>
