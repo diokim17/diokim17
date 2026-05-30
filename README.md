@@ -22,6 +22,7 @@ Interested in autonomous driving, robotics, and scalable AI systems.
 ### 🛠 Tech Stack
 - Python
 - OpenCV
+- Pytorch
 - Pandas
 - Docker
 - Kubernetes
