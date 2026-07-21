@@ -38,7 +38,7 @@ Computer Vision 기술을 자율주행과 로보틱스 분야에 적용하는 �
 
 ### 📫 Feel free to contact me!
 <a href="mailto:dykim335@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dykim335@gmail.com"/></a>
-
+<a href="https://www.linkedin.com/in/diokim17/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 
 
