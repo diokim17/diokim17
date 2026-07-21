@@ -1,37 +1,39 @@
 ## 👋 Hi there, I'm Doyeong Kim (Dio)
 
 ### 🚀 About Me
-Aspiring AI Engineer focused on Computer Vision and intelligent systems.
+Aspiring AI Engineer with a strong interest in Computer Vision.
 
-Currently studying AI engineering through the Codeit AI Bootcamp and building projects related to image processing, data pipelines, and ML workflows.
+Currently studying AI engineering through the Codeit AI Bootcamp, covering Machine Learning, Deep Learning (Computer Vision, LLM), and AI project development.
 
-Interested in autonomous driving, robotics, and scalable AI systems.
+Interested in applying Computer Vision to autonomous driving and robotics.
 
 -----
 
-컴퓨터 비전과 지능형 시스템에 관심을 가지고 AI 엔지니어로 성장하고 있습니다.  
-현재 Codeit AI Bootcamp를 통해 AI 엔지니어링을 학습하며 이미지 처리, 데이터 파이프라인, ML 워크플로우 관련 프로젝트를 진행하고 있습니다.  
-자율주행, 로보틱스, 확장 가능한 AI 시스템 분야에 관심이 있습니다.
+컴퓨터 비전에 관심을 가지고 AI 엔지니어로 성장하고 있습니다.
+
+현재 Codeit AI Bootcamp에서 머신러닝, 딥러닝(Computer Vision, LLM)을 중심으로 AI 엔지니어링을 학습하며 다양한 AI 프로젝트를 수행하고 있습니다.
+
+Computer Vision 기술을 자율주행과 로보틱스 분야에 적용하는 것에 관심이 있습니다.
 
 ### ⚙️ What I Focus On
-- Computer Vision and intelligent systems
-- Image processing and ML workflows
-- Data pipelines and automation
-- Reproducible AI environments with Docker and Kubernetes
+- Computer Vision
+- Machine Learning & Deep Learning
+- AI Model Development
+- AI Engineering
 
 ### 🛠 Tech Stack
 - Python
+- PyTorch
 - OpenCV
-- Pytorch
 - Pandas
 - Docker
-- Kubernetes
+- Kubernetes (Learning)
 
 ### 🎯 Interests
 - Computer Vision
 - Autonomous Driving
 - Robotics
-- MLOps
+- Edge AI
 - AI Infrastructure
 
 ### 📫 Feel free to contact me!
