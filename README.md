@@ -23,8 +23,8 @@ Computer Vision 기술을 자율주행과 로보틱스 분야에 적용하는 �
 
 ### 🛠 Tech Stack
 - Python
-- PyTorch
-- OpenCV
+- PyTorch (Learning)
+- OpenCV (Learning)
 - Pandas
 - Docker
 - Kubernetes (Learning)
