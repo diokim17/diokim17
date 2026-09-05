@@ -29,14 +29,18 @@ Currently expanding my experience through various AI projects, with a focus on C
 
 ### 🚀 Projects
 
-* **[K-TEST](https://github.com/diokim17/k-test)**
-  AI-based Online Assessment & Anti-Cheat System
-  Anti-Cheat / AI Engineer, *2026*
-  🏆 **제8회 KDT 해커톤 자유과제 부문 장려상 (고용노동부 장관상)**
+* [**K-TEST**](https://github.com/diokim17/k-test)
 
-* **[Pill Object Detection](https://github.com/diokim17/pill-object-detection)**
-  YOLO-based Pill Object Detection
-  Team Project, *2026.08*
+  * AI-based Online Assessment & Anti-Cheat System
+  * **Role:** Anti-Cheat / AI Engineer
+  * *2026.09*
+  * 🏆 **제8회 KDT 해커톤 자유과제 부문 장려상 (고용노동부 장관상)**
+
+* [**Pill Object Detection**](https://github.com/diokim17/pill-object-detection)
+
+  * YOLO-based Pill Object Detection
+  * **Role:** Faster R-CNN / PM, AI Engineer
+  * *2026.08*
 
 ---
 
